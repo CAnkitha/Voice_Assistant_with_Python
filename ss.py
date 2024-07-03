@@ -1,0 +1,2 @@
+nkey = "YOUR_NEWS_API_KEY"
+wkey="YOUR_WEATHER_API_KEY"
